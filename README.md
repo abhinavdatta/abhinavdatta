@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhinavdatta
 - 👀 I’m interested in  gaming
-- 🌱 I’m currently learning  coding in @whitehatjr
- 
+- 🌱 I completed learning  coding in @whitehatjr up to class 68
+-   my last coding class was on on 19/10/21  thankyou Sanjukta mam for teaching me
  
 
 <!---
