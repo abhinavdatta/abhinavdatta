@@ -2,7 +2,7 @@
 - 👀 I’m interested in  gaming
 - 🌱 I completed learning  coding in @whitehatjr up to class 68
 -   my last coding class was on on 19/10/21  thankyou Sanjukta mam for teaching me
-  follow me on :-
+-    follow me on :-
       <a href="https://www.facebook.com/abhinav.kalyanadurgam/"><img src="fb.png" width=50 height=50/></a>
       <a href="https://www.instagram.com/janamaddiabhinav/"><img src="insta.png" width=50 height=50/></a>
       <a href="https://twitter.com/abhinavdatta14"><img src="twitter.png" width=50 height=50/></a>
