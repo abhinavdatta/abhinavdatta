@@ -7,7 +7,7 @@
       <a href="https://www.facebook.com/abhinav.kalyanadurgam/"><img src="fb.png" width=50 height=50/></a>
       <a href="https://www.instagram.com/janamaddiabhinav/"><img src="insta.png" width=50 height=50/></a>
       <a href="https://twitter.com/abhinavdatta14"><img src="twitter.png" width=50 height=50/></a>
-      <a href="https://www.youtube.com/channel/UCb-AxRFmcEJfHAWmUfX1qvw"><img src="https://www.seekpng.com/png/detail/328-3289308_black-youtube-icon-download-logo-youtube-grey.png" alt="Black Youtube Icon Download - Logo Youtube Grey@seekpng.com" width=100 height=80/></a>
+      <a href="https://www.youtube.com/channel/UCb-AxRFmcEJfHAWmUfX1qvw"><img src="https://i.pinimg.com/originals/90/b0/c6/90b0c69018113810111ba4ed3e60a5df.png" alt="Black Youtube Icon Download - Logo Youtube Grey@seekpng.com" width=60 height=60/></a>
 
 <hr width=850px> 
 
