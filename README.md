@@ -98,7 +98,7 @@ Here are the most recent public actions from my GitHub activity feed:
 
 
 Currently Working On / Learning:
-- Currently: engineering-notes (TypeScript) and personal-ai (Python) — building tools and experimenting with AI + game coding.
+- Currently: engineering-notes (javascript+HTML) and personal-ai (Python) — building tools and experimenting with AI + game coding.
 - Learning: Game coding fundamentals, Python-based AI workflows, and C++ for embedded / systems projects. 🎯
 
 
