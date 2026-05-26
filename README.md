@@ -232,9 +232,12 @@ Currently Working On / Learning:
 
 ## 🌍 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/abhinavdatta" target="blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+        <a href="https://x.com/NeoTactix" target="blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
   </a>
 </p>
 
