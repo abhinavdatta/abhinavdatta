@@ -122,7 +122,7 @@ Currently Working On / Learning:
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=30&pause=1000&color=F79E08&background=B2FFE000&center=true&vCenter=true&random=true&width=435&lines=Hello+There!" alt="Typing SVG" /></a>"
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=30&pause=1000&color=F79E08&background=B2FFE000&center=true&vCenter=true&random=true&width=435&lines=Hello+There!" alt="Typing SVG" /></a>
 </div>
 
 ---
