@@ -5,7 +5,7 @@
 -   my last coding class was on on 19/10/21  thankyou Sanjukta mam for teaching me
 <hr width=850px> 
 -    follow me on :-
-      <a href="https://www.facebook.com/abhinav.kalyanadurgam/"><img src="fb.png" width=50 height=50/></a>
+      
       <a href="https://www.instagram.com/thewars667/"><img src="insta.png" width=50 height=50/></a>
       <a href="https://twitter.com/THEWARS667"><img src="twitter.png" width=50 height=50/></a>
       <a href="https://www.youtube.com/channel/UCb-AxRFmcEJfHAWmUfX1qvw"><img src="https://i.pinimg.com/originals/90/b0/c6/90b0c69018113810111ba4ed3e60a5df.png" alt="Black Youtube Icon Download - Logo Youtube Grey@seekpng.com" width=50 height=50/></a>
@@ -17,7 +17,7 @@ abhinavdatta/abhinavdatta is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-
+<!--
 
 ## Hi there! 👋
 
@@ -51,7 +51,7 @@ I'm focused on learning game coding and building small projects that combine Pyt
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <!---<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />--->
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
@@ -117,6 +117,137 @@ Currently Working On / Learning:
 
 ###
 
+-->
+# 🚀 Hi, I'm Abhinav Datta
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering+Student;Aspiring+Developer+%26+Problem+Solver;Learning+C%2B%2B+%7C+Web+Development+%7C+Core+ECE;Always+Building+Something+New+⚡" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 ECE Student passionate about technology and problem solving
+- 💡 Interested in:
+  - Embedded Systems
+  - Web Development
+  - Programming & Algorithms
+  - Digital Electronics
+  - AI & Modern Tech
+- 🌱 Currently learning:
+  - C / C++
+  - Data Structures & Algorithms
+  - HTML, CSS & JavaScript
+  - Core Electronics Subjects
+- ⚡ Goal: To become a skilled engineer who can build both hardware and software solutions
+- 🎯 Always exploring new technologies and improving my coding skills
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css" />
+</p>
+
+### ⚙️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+---
+
+## 📚 Currently Working On
+
+- 📖 Improving problem-solving skills
+- 🔬 Exploring electronics & communication concepts
+- 🌐 Building small web projects
+- ⚙️ Learning embedded & hardware-related technologies
+- 🧠 Preparing for technical interviews and placements
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinavdatta&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavdatta&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=abhinavdatta&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🧩 Featured Areas
+
+```txt
+💻 Programming
+⚡ Electronics
+🌐 Web Development
+📡 Communication Systems
+🧠 Problem Solving
+🚀 Continuous Learning
+```
+
+---
+
+## 📌 Recent Activity & Projects
+
+<div align="center">
+
+<a href="https://github.com/abhinavdatta?tab=repositories">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavdatta&theme=tokyonight" />
+</a>
+
+</div>
+
+### 🚀 Recent Repositories
+
+- 🔹 Check out all my latest repositories here:
+  - 🌐 https://github.com/abhinavdatta?tab=repositories
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavdatta&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/abhinavdatta" target="blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### ✨ "Keep Learning, Keep Building" ✨
+
+<img src="https://komarev.com/ghpvc/?username=abhinavdatta&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+
+</div>
 
 
 
