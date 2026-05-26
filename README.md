@@ -122,7 +122,7 @@ Currently Working On / Learning:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering+Student;Aspiring+Developer+%26+Problem+Solver;Learning+C%2B%2B+%7C+Web+Development+%7C+Core+ECE;Always+Building+Something+New+⚡" alt="Typing SVG" />
+<img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=30&pause=1000&color=F79E08&background=B2FFE000&center=true&vCenter=true&random=true&width=435&lines=Hello+There!" alt="Typing SVG" /></a>" alt="Typing SVG" />
 
 </div>
 
