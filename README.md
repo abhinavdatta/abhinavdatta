@@ -173,11 +173,10 @@ Currently Working On / Learning:
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinavdatta&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavdatta&layout=compact&theme=tokyonight&hide_border=true" />
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhinavdatta&theme=tokyonight" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinavdatta&theme=tokyonight" height="180em" />
+</p>
 </div>
 
 ---
