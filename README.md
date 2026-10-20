@@ -108,6 +108,7 @@ A ZCode-style coding assistant with no paid model APIs. It works directly on you
 ## 🕒 Recently Updated
 
 <!-- RECENT:START -->
+_Run the **Update recent repos** workflow from the Actions tab to populate this table._
 <!-- RECENT:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F79E08,100:b45309&height=3&width=100%25" width="100%" alt="divider" />
@@ -140,7 +141,7 @@ A ZCode-style coding assistant with no paid model APIs. It works directly on you
 
 🎯 Currently sharpening: DSA · communication systems · where embedded meets web.
 
-<img src="https://komarev.com/ghpvc/?username=abhinavdatta&label=Profile%20Views&color=F79E08&style=flat-square" alt="profile views" />
+<img src="https://hits.sh/github.com/abhinavdatta.svg?style=flat-square&color=F79E08&label=profile%20views" alt="profile views" />
 
 <br /><br />
 
