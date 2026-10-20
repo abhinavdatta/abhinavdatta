@@ -105,6 +105,11 @@ A ZCode-style coding assistant with no paid model APIs. It works directly on you
 
 <sub>🔌 Earlier builds: Smart Micro-Pump (ESP32 + PID control for drug delivery, simulated in Wokwi) · <a href="https://github.com/abhinavdatta/Home-Automation-System">Home Automation System</a></sub>
 
+## 🕒 Recently Updated
+
+<!-- RECENT:START -->
+<!-- RECENT:END -->
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F79E08,100:b45309&height=3&width=100%25" width="100%" alt="divider" />
 
 ## 📊 Activity
