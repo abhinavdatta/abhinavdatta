@@ -108,7 +108,13 @@ A ZCode-style coding assistant with no paid model APIs. It works directly on you
 ## 🕒 Recently Updated
 
 <!-- RECENT:START -->
-_Run the **Update recent repos** workflow from the Actions tab to populate this table._
+| Repository | Description | Language | Last push |
+|---|---|---|---|
+| [Neelima](https://github.com/abhinavdatta/Neelima) | No description yet | Rust | 2026-10-19 |
+| [Triveni-AN-IOT-enabled-medical-device](https://github.com/abhinavdatta/Triveni-AN-IOT-enabled-medical-device) | No description yet | Kotlin | 2026-10-19 |
+| [PUNARVA](https://github.com/abhinavdatta/PUNARVA) | A hardware project for innovation day | TypeScript | 2026-10-15 |
+| [SIH-SIH26034](https://github.com/abhinavdatta/SIH-SIH26034) | No description yet | TypeScript | 2026-10-09 |
+| [VLSI_lab_projects](https://github.com/abhinavdatta/VLSI_lab_projects) | No description yet | Stata | 2026-09-07 |
 <!-- RECENT:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F79E08,100:b45309&height=3&width=100%25" width="100%" alt="divider" />
