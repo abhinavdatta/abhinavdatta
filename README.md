@@ -52,7 +52,7 @@ ESP32-based device that tests used 18650 cells and returns a REUSE / INSPECT / R
 ![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-🟠 **IN PROGRESS · firmware being finalized** · [Project ↗](https://www.schematik.io/projects/battery-health-screening-device-hn5q) · [Site ↗](https://punarva.abhi07janamaddi.workers.dev)
+🟢 **DEPLOYED** · [Project ↗](https://www.schematik.io/projects/battery-health-screening-device-hn5q) · [Site ↗](https://punarva.abhi07janamaddi.workers.dev)
 
 </td>
 <td width="50%" valign="top">
