@@ -31,7 +31,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,nodejs,flask,arduino,git,linux,vscode&theme=dark&perline=7" alt="Skill icons" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,nodejs,arduino,git,linux,vscode&theme=dark&perline=7" alt="Skill icons" />
 
 </div>
 
